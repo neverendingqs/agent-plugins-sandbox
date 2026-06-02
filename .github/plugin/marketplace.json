@@ -1,0 +1,12 @@
+{
+  "name": "neverendingqs-agent-plugins-sandbox",
+  "owner": {
+    "name": "Mark Tse"
+  },
+  "plugins": [
+    {
+      "name": "mtse-test",
+      "source": "./plugins/mtse-test-plugin"
+    }
+  ]
+}
