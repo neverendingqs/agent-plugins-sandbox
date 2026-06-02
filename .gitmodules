@@ -1,0 +1,3 @@
+[submodule "plugins/neverendingqs/agent-plugins"]
+	path = plugins/neverendingqs/agent-plugins
+	url = git@github.com:neverendingqs/agent-plugins

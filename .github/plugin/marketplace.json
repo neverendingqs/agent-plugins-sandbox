@@ -7,6 +7,10 @@
     {
       "name": "mtse-test",
       "source": "./plugins/mtse-test-plugin"
+    },
+    {
+      "name": "neverendingqs",
+      "source": "./plugins/neverendingqs/agent-plugin/plugins/development-plugin"
     }
   ]
 }
